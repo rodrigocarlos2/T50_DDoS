@@ -8,4 +8,10 @@
 
 * The 104.236.17.122 is the IP number of attacked website.
 
+# Installation
+
+* Run the commannd: sudo apt-get install t50.
+
+* Or download the file.deb in this repository.
+
 # A great hug to Ricardo
